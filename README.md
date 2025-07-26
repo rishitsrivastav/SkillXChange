@@ -121,7 +121,7 @@ npm run dev
 
 ---
 
-## 📸 Preview (Optional)
+## 📸 Preview
 
 ![1](https://github.com/user-attachments/assets/007eebca-558a-4a97-87a4-d9e6c4467631)
 
